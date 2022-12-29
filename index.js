@@ -106,4 +106,12 @@ console.log (`----------------------------`);
 
 console.log(`Total Months: ${finances.length}`);
 
+// * Net Total Amount
+
+let total=0;
+
+for (let n=0; n < finances.length; n++) {
+total = total + finances[n][1]}
+
+console.log(`Total: ${total}`);
 

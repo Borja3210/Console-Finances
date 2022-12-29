@@ -117,11 +117,7 @@ total = total + finances[n][1]}
 
 console.log(`Total: ${total}`);
 
-// * Average change
-//sudocode
 
-
-let average = total / finances.length
 
 
 

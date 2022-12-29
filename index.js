@@ -101,3 +101,9 @@ var finances = [
 console.log(`Financial Analysis`);
 
 console.log (`----------------------------`);
+
+// *total Months
+
+console.log(`Total Months: ${finances.length}`);
+
+

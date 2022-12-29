@@ -87,6 +87,8 @@ var finances = [
 ['Feb-2017', 671099]
 ];
 
+//Sudocode
+//
 
 //     Financial Analysis
 // ----------------------------
@@ -114,4 +116,15 @@ for (let n=0; n < finances.length; n++) {
 total = total + finances[n][1]}
 
 console.log(`Total: ${total}`);
+
+// * Average change
+//sudocode
+
+
+let average = total / finances.length
+
+
+
+
+
 

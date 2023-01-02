@@ -6,6 +6,9 @@ With this activity, I been tasked to create code for analyzing on the JS console
 
 ## TABLE OF CONTENTS
 
+![0F48399A-9D51-46BE-8602-A002D9D75079](https://user-images.githubusercontent.com/26310201/210244054-96ede08e-b150-445e-8f1d-eb80d87806f1.jpeg)
+
+
 <ins>TOTAL MONTHS</ins>
 
 Total of months included in the dataset.

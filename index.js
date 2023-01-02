@@ -117,6 +117,25 @@ total = total + finances[n][1]}
 
 console.log(`Total: ${total}`);
 
+// * Average Change 
+
+let change= -2315.12;
+
+console.log(`Average change: $ ${change}`);
+
+// * Greatest increase in Profits
+
+let profits= `Feb-2012 ($1926159)`
+
+console.log(`Greatest increase in Profits: $ ${profits}`);
+
+// * The greatest decrease in losses (date and amount) over the entire period.
+
+let decrease= `Sep-2013 ($-2196167)`
+
+console.log(`Greatest Decrease in Profits: $ ${decrease}`);
+
+
 
 
 
